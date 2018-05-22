@@ -1,4 +1,4 @@
-# k8s-mesh-iperf
+# k8s-mesh-iperf tests
 Checks network bandwidth on whole k8s cluster with iperf
 
 ## usage:
